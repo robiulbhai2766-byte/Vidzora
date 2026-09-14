@@ -1,2 +1,2 @@
 # Vidzora
-Vidzora
+Vidzora Social Video Platform
